@@ -33,7 +33,8 @@ sq_root(n)
 ```
 
 ## Output:
-![image](https://github.com/23007965/Square-root-of-a-number/assets/138971238/46485d0d-e3e1-4518-937f-cf3b5b3ad2fd)
+![image](https://github.com/23007965/Square-root-of-a-number/assets/138971238/4cd88222-d539-4c59-8c53-129ec767c76e)
+
 
 
 
